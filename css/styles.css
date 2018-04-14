@@ -1,0 +1,66 @@
+* {
+box-sizing: border-box;
+}
+h1 {
+font-family: Times New Roman;
+}
+body {
+background-color: lightblue;
+}
+p {
+padding: 10px;
+margin: 0;
+}
+a {
+color: white !important;
+font-weight: bold;
+font-size: 200%;
+}
+hr {
+border-color: white;
+}
+section {
+background-color: red;
+width: 100%;
+height: auto;
+font-family: sans-serif;
+color: black;
+position: relative;
+overflow: auto;
+}
+.container {
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+padding: 10px;
+}
+#foodid {
+text-align: center;
+font-weight: bold;
+font-size: 125%;
+margin-bottom: 0;
+margin-top: 0;
+padding: 5px;
+}
+#div {
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.navbar-brand {
+font-size: 2em;
+}
+#header-nav {
+border: 0;
+background-color: black;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+border: 1px solid white;
+}
+.navbar-header button.navbar-toggle {
+clear: both;
+margin-top: -30px;
+}
+.nav-brand {
+color: white;
+font-size: 1.5em;
+}
